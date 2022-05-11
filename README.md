@@ -17,7 +17,7 @@
   ### Reach me on the following links:
  
 <div> 
-  <a href="https://instagram.com/vfmauro" target="_blank"><img src="https://i0.wp.com/mixdamel.com.br/wp-content/uploads/2015/09/instagram.png?fit=256%2C256&ssl=1" style="height: 1cm; width: 1cm;" alt="Instagram" target="_blank"></a>
+  <a href="https://instagram.com/vfmauro" target="_blank" rel="external"><img src="https://i0.wp.com/mixdamel.com.br/wp-content/uploads/2015/09/instagram.png?fit=256%2C256&ssl=1" style="height: 1cm; width: 1cm;" alt="Instagram" target="_blank"></a>
   <a href = "mailto:maurofviana23@gmail.com"><img src="https://www.pngmart.com/files/16/Black-Gmail-PNG-Photos.png" style="height: 10mm; width: 1cm;" alt="Gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauro-viana-b699331b1/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1/PNG/256/sociallinkedin_member_70.png" style="height: 1cm; width: 1cm;" alt="Linkedin" target="_blank"></a> 
  
