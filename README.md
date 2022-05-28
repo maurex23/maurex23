@@ -21,5 +21,7 @@
   <a href = "mailto:maurofviana23@gmail.com"><img src="https://www.pngmart.com/files/16/Black-Gmail-PNG-Photos.png" style="height: 10mm; width: 1cm;" alt="Gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauro-viana-b699331b1/" target="_blank" rel="external"><img src="https://cdn.icon-icons.com/icons2/1/PNG/256/sociallinkedin_member_70.png" style="height: 1cm; width: 1cm;" alt="Linkedin" target="_blank"></a> 
  
+   ![Snake animation](https://github.com/maurex23/maurex23/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
